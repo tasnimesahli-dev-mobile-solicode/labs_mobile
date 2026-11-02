@@ -1,0 +1,60 @@
+/* Main slides */
+section {
+  font-size: 19px;
+  line-height: 1.25;
+  padding: 55px 52px 45px;
+}
+
+/* Titles */
+h1 {
+  font-size: 29px;
+  margin-bottom: 10px;
+  padding-bottom: 4px;
+}
+
+h2 {
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+h3 {
+  font-size: 19px;
+  margin-bottom: 6px;
+}
+
+/* Lists */
+ul, ol {
+  margin-top: 4px;
+  margin-bottom: 6px;
+}
+
+li {
+  margin-bottom: 4px;
+  font-size: 18px;
+}
+
+/* Tables */
+table {
+  font-size: 15px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+th, td {
+  padding: 6px 10px;
+}
+
+/* Code blocks */
+pre {
+  font-size: 13px !important;
+  line-height: 1.2 !important;
+  padding: 8px 12px !important;
+  margin-top: 5px;
+}
+
+/* Quotes */
+blockquote {
+  font-size: 17px;
+  padding: 6px 12px;
+  margin: 6px 0;
+}
