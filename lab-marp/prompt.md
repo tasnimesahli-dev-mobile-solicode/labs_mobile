@@ -1,0 +1,4 @@
+prompt 1: 
+crer un lab presentation de projet technique une plateform gestion des article(blog des article) les fonctionallite ajouter et affciher des article et categorie utilise les technologie php json js css html tailwind  contient 3 table : redacteur , article , categorie  dans page de garde doit contient un logo de solicode et ofppt titre de projet et nom de apprenant et encadrant le presentation doit etre avec marp des slide contient introduction contenu conclusion  le theme doit etre claire et moderne des titre bien organise le contenu bien structure des colore Matching avec Français n1
+prompt 2:
+[lab-marp](directory;file:///c%3A/Users/Solicode/Desktop/Antigravity/labs/lab-marp) ajouter presenteur  commentaires a chaque slide une phras qui presente le slide 
