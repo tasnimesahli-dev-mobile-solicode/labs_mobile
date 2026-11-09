@@ -127,29 +127,12 @@ ul { margin-top: 8px; margin-bottom: 8px; }
 
 ---
 
-<!-- header: "Lab Prompt | 1. Planification" -->
-<!-- footer: "SoliCode & OFPPT | Lab Prompt" -->
-
-<!-- Note: Cette étape fixe nos objectifs d'apprentissage et les prérequis du lab. -->
-
-# 1. Planification
-
-- **Objectifs** : écrire des prompts clairs et efficaces pour l'IA
-- **Prérequis** : notions de base en PHP ou développement web
-- **Étapes du lab** :
-  1. Découvrir les méthodes de prompt
-  2. Analyser des exemples concrets
-  3. Améliorer un prompt vague
-  4. Réaliser le TP et s'auto-évaluer
-
----
-
 <!-- header: "Lab Prompt | 2. Introduction" -->
 <!-- footer: "SoliCode & OFPPT | Lab Prompt" -->
 
 <!-- Note: Le Prompt Engineering aide à obtenir de meilleures réponses de l'IA. -->
 
-# 2. Introduction
+# 1. Introduction
 
 - **L'IA répond selon la qualité de notre question.**
 - Un prompt flou → une réponse inutile.
@@ -164,7 +147,7 @@ ul { margin-top: 8px; margin-bottom: 8px; }
 
 <!-- Note: Nous définissons ici les trois termes clés à connaître avant de continuer. -->
 
-# 3. Définitions
+# 2. Définitions
 
 - **Prompt** : instruction ou question envoyée à l'IA
 - **IA générative** : IA qui génère du texte, du code ou des images
@@ -178,7 +161,7 @@ ul { margin-top: 8px; margin-bottom: 8px; }
 
 <!-- Note: Ces outils IA nous aident à coder, apprendre et rédiger plus vite. -->
 
-# 4. Outils
+# 3. Outils
 
 | Outil | Rôle | Usage pour le développeur |
 | :--- | :--- | :--- |
@@ -194,7 +177,7 @@ ul { margin-top: 8px; margin-bottom: 8px; }
 
 <!-- Note: La méthode RTF donne un rôle, une tâche et un format précis à l'IA. -->
 
-# 5. Méthode RTF : Role – Task – Format
+# 4. Méthode RTF : Role – Task – Format
 
 <div class="grid-2">
 <div class="card">
@@ -348,6 +331,23 @@ Format : Code commenté, validation
 </div>
 
 ---
+<!-- header: "Lab Prompt | 6. Travail Pratique (TP)" -->
+<!-- footer: "SoliCode & OFPPT | Lab Prompt" -->
+
+<!-- Note: À présent, vous appliquez les méthodes vues pour écrire vos propres prompts. -->
+
+# 5. Travail Pratique (TP)
+
+**Objectif** : écrire et améliorer des prompts pour le développement web.
+
+1. **Étape 1** : Écrire un prompt vague (ex : "code PHP login")
+2. **Étape 2** : Le réécrire avec la méthode **RTF**
+3. **Étape 3** : Réécrire le même prompt avec la méthode **CRISPE**
+4. **Étape 4** : Tester les deux prompts dans ChatGPT et comparer les réponses
+
+**Livrable** : un fichier `prompts.md` avec vos 3 versions et une conclusion.
+
+---
 
 <!-- header: "Lab Prompt | 6. Conclusion" -->
 <!-- footer: "SoliCode & OFPPT | Lab Prompt" -->
@@ -368,59 +368,7 @@ Format : Code commenté, validation
 - Itérer : tester, corriger, améliorer
 - Vérifier toujours le code et les réponses générés
 
----
 
-<!-- header: "Lab Prompt | 6. Travail Pratique (TP)" -->
-<!-- footer: "SoliCode & OFPPT | Lab Prompt" -->
 
-<!-- Note: À présent, vous appliquez les méthodes vues pour écrire vos propres prompts. -->
 
-# 6. Travail Pratique (TP)
-
-**Objectif** : écrire et améliorer des prompts pour le développement web.
-
-1. **Étape 1** : Écrire un prompt vague (ex : "code PHP login")
-2. **Étape 2** : Le réécrire avec la méthode **RTF**
-3. **Étape 3** : Réécrire le même prompt avec la méthode **CRISPE**
-4. **Étape 4** : Tester les deux prompts dans ChatGPT et comparer les réponses
-
-**Livrable** : un fichier `prompts.md` avec vos 3 versions et une conclusion.
-
----
-
-<!-- header: "Lab Prompt | 6. Critères d'évaluation" -->
-<!-- footer: "SoliCode & OFPPT | Lab Prompt" -->
-
-<!-- Note: La notation évalue la structure, la maîtrise des méthodes, le contenu et la qualité du français. -->
-
-# 6. Critères d'Évaluation
-
-| Critère | Description | Points |
-| :--- | :--- | :---: |
-| **Structure & Organisation** | 3 versions de prompts présentes et bien organisées | 4 pts |
-| **Maîtrise des Méthodes** | Utilisation correcte de RTF et CRISPE | 8 pts |
-| **Pertinence du Contenu** | Prompts liés au développement PHP / Laravel / Web | 4 pts |
-| **Qualité Français A1** | Phrases courtes, vocabulaire simple, orthographe | 4 pts |
-| | **Total** | **20 pts** |
-
----
-
-<!-- _class: cover -->
-<!-- _paginate: false -->
-<!-- _footer: "Centre SoliCode Tanger & OFPPT — Promotion 2026" -->
-
-<!-- Note: Merci pour votre attention, le Prompt Engineering améliore notre travail chaque jour. -->
-
-<div class="logo-bar">
-  <img src="images/ofppt-logo.png" height="85" alt="Logo OFPPT">
-  <img src="images/solicode-logo.png" height="70" alt="Logo SoliCode">
-</div>
-
-# Merci !
-
-### Le bon prompt → la bonne réponse 🎯
-
-**Compétence acquise** : écrire des prompts clairs avec RTF, IPO, CRISPE et Few-Shot
-
-**Livrable** : `labs/lab-prompt/presentation.md`
 
